@@ -1,0 +1,34 @@
+﻿  Progression.cpp
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(19,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(24,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(25,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(30,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(32,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(36,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(22,32): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(11,65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(16,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(17,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(26,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(30,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(33,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(37,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(59,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(36): message : see declaration of 'operator >>'
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(76,1): warning C5043: 'Progression::operator --': exception specification does not match previous declaration
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(30): message : see declaration of 'Progression::operator --'
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(91,1): warning C5043: 'Progression::operator --': exception specification does not match previous declaration
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(32): message : see declaration of 'Progression::operator --'
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.cpp(101,30): warning C4244: 'argument': conversion from 'const unsigned int' to 'float', possible loss of data
+  Source.cpp
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(19,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(24,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(25,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(30,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(32,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(36,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Progression.h(22,32): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Source.cpp(15,24): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Lab_5.1-A\Source.cpp(18,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Lab_5.1-A.vcxproj -> F:\ООП\Тема 5\Lab_5.1-A\Lab_5.1-A\Debug\Lab_5.1-A.exe
